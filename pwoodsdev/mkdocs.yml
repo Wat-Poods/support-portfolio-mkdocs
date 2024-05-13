@@ -1,0 +1,16 @@
+site_name: Pat Woods
+nav:
+  - Home: index.md
+  - My Details: 
+    - Contact: contact.md
+    - Resume: resume.md
+  - Writing:
+    - General Writing: writings.md
+    - Customer Support Work: customer-support-writings.md
+ 
+theme:
+  name: simple-blog
+
+markdown_extensions:
+  - toc:
+      separator: "_"
